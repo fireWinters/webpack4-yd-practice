@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/fireWinters/webpack4-yd-practice#readme",
   "dependencies": {
+    "@walletconnect/web3-provider": "^1.7.3",
+    "tailwindcss": "^3.0.23",
+    "typescript": "^4.6.2",
     "webpack": "4.28.4",
     "webpack-cli": "3.3.12"
   }
