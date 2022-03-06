@@ -1,2 +1,15 @@
-# webpack4-yd-practice
-构建支持TS(X)+Tailwind CSS基于Webpack4的开发环境
+# 🚀 Welcome to your new awesome project!
+
+This project has been created using **webpack-cli**, you can now run
+
+```
+npm run build
+```
+
+or
+
+```
+yarn build
+```
+
+to bundle your application
